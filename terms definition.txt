@@ -1,0 +1,15 @@
+Superposition in quantum computing means that a qubit can exist in multiple states (like |0⟩ and |1⟩) at the same time.
+
+A constant function is a function that always returns the same output bit (either 0 or 1), no matter what input is given to it.
+
+A balanced function is a function that returns 0 for half of the inputs and 1 for the other half, depending on the input state of the qubit.
+
+Interference can be constructive or destructive based on the likelehood of their outcome result.
+
+Hadamard Gate an operation applied to qubits to created superpostion of them 
+
+Entaglement is the state that is between two qubits which one affect the other one 
+and they communicate each other with pairment they have .
+
+
+No-Cloning copying the unknown state of the sender to the reciever is not possible .
